@@ -1,16 +1,26 @@
-### Hi there 👋
+# ¡Hola! 👋 Soy Jhon-E.
 
-<!--
-**Jhon-E/Jhon-E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+Soy un apasionado desarrollador web con experiencia en las siguientes tecnologías:
 
-Here are some ideas to get you started:
+- **Frontend**: HTML5, CSS3, React
+- **Backend**: Node.js, Express
+- **Base de Datos**: SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me encanta crear aplicaciones web y aprender nuevas tecnologías. Siempre estoy buscando oportunidades para colaborar en proyectos interesantes.
+
+## Proyectos Destacados
+Aquí hay algunos proyectos en los que he trabajado:
+
+1. **E-cologico**
+   - [Enlace al repositorio](https://github.com/Jhon-E/frontend-ecologico)
+   - Descripción: Una app web que simula un Ecommerce de productos ecológicos, usé react para el frontend y nodejs con express para el backend junto a una base de datos sql.
+
+## Contacto
+¡Hablemos! Puedes encontrarme en:
+
+- LinkedIn
+- Twitter
+
+¡Gracias por visitar mi perfil! 😊
+
