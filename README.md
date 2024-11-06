@@ -3,7 +3,7 @@
 ## Sobre mí
 Soy un apasionado desarrollador web con experiencia en las siguientes tecnologías:
 
-- **Frontend**: HTML5, CSS3, React
+- **Frontend**: HTML5, CSS3, JavaScript, NextJS, React + vite.
 - **Backend**: Node.js, Express
 - **Base de Datos**: SQL
 
