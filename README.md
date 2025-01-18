@@ -1,26 +1,46 @@
-# ¡Hola! 👋 Soy Jhon-E.
+# ¡Hola! 👋 Soy Jhon-E
 
 ## Sobre mí
-Soy un apasionado desarrollador web con experiencia en las siguientes tecnologías:
+Soy un apasionado desarrollador web con experiencia en la creación de aplicaciones dinámicas, eficientes y centradas en el usuario. Me encanta aprender nuevas tecnologías y explorar soluciones innovadoras.
 
-- **Frontend**: HTML5, CSS3, JavaScript, NextJS, React + vite.
-- **Backend**: Node.js, Express
-- **Base de Datos**: SQL
+### Tecnologías que domino
+- **Frontend**:  
+  - `HTML5`, `CSS3`, `JavaScript`, `TailwindCSS`, `DaisyUI`
+  - `React 18.0.0^`, `Next.js`  
+  - `Vite`
 
-Me encanta crear aplicaciones web y aprender nuevas tecnologías. Siempre estoy buscando oportunidades para colaborar en proyectos interesantes.
+- **Backend**:  
+  - `Node.js`, `Express`, `TypeScript`
+
+- **Bases de Datos**:  
+  - `SQL Server`  
+  - `MySQL`
+  - `SQL server Management Studio`
+  - `SQL Workbench`
+
+- **Otros conocimientos**:  
+  - `Programación Orientada a Objetos (POO)`  
+  - `Python`
+  - `Patrones de diseño`
+
+Siempre estoy buscando nuevas formas de mejorar mis habilidades y contribuir a proyectos significativos. 🚀
 
 ## Proyectos Destacados
-Aquí hay algunos proyectos en los que he trabajado:
 
-1. **E-cologico**
-   - [Enlace al repositorio](https://github.com/Jhon-E/frontend-ecologico)
-   - Descripción: Una app web que simula un Ecommerce de productos ecológicos, usé react para el frontend y nodejs con express para el backend junto a una base de datos sql.
+### [E-cologico 🌱](https://github.com/Jhon-E/frontend-ecologico)
+Una aplicación web que simula un ecommerce de productos ecológicos.  
+- **Frontend**: `React` + `TailwindCSS` y `DaisyUI` para una interfaz moderna y atractiva.  
+- **Backend**: `Node.js` con `Express` para gestionar la lógica del servidor.  
+- **Base de datos**: `SQL` para manejar el almacenamiento de datos.  
+- **Descripción**: Este proyecto fue diseñado para explorar soluciones sostenibles en el comercio electrónico mientras aplicaba tecnologías modernas.
 
 ## Contacto
-¡Hablemos! Puedes encontrarme en:
 
-- LinkedIn
-- Twitter
+¡Me encantaría conectar contigo! Puedes encontrarme en:  
+- [LinkedIn](www.linkedin.com/in/jhoneospino)  
 
-¡Gracias por visitar mi perfil! 😊
+O envíame un mensaje directamente por correo electrónico: **jhoneospino@gmail.com**
 
+---
+
+Gracias por visitar mi perfil. 😊 ¡Espero que podamos colaborar pronto en algo increíble!
